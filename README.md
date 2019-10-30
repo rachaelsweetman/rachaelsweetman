@@ -1,1 +1,1 @@
-# Welcome to Rachael Sweetman's website
+# Rachael Sweetman
