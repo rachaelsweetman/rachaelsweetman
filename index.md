@@ -1,10 +1,10 @@
-#Rachael Sweetman
+# Rachael Sweetman
 
 4th year student at The Ohio State University studying computer science and engineering.
 
 [LinkedIn](https://www.linkedin.com/in/rachael-sweetman-6903b4147/)
 
-### Current courses:
+## Current courses:
 
 * CSE 3244 - Data Management in the Cloud
 * CSE 3901 - Project: Design, Development, and Documentation of Web Applications
@@ -12,7 +12,7 @@
 * CSE 5243 - Introduction to Data Mining
 * CSE 5525 - Foundations of Speech and Language Processing
 
-### Work experience 
+## Work experience 
 **Nike**  
 
 *Global Technology Engineering Intern for SAP Security*
@@ -35,7 +35,7 @@ Located in Houston, TX from May-August 2018
 - Assessed and ranked risks within the CSRC teams and applications to help protect GE
 - Learned about the manual and automated penetration testing process of various applications
 
-### Past courses:
+## Past courses:
 
 | Course | Title |
 | ----------- | ----------- |
